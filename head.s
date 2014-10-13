@@ -1,6 +1,6 @@
 fjkddjfkldidfdsfsdklfkjcnvohesflksdjlkfjdslkfjdlskjfldsjfldsjfldskjflkdsjflksjflksdjflkdskjflkdsjflkdjsflkjdslkfjldsjfldsj;fjdsflkjdslfjdslkfjlkdjfldkjflkdsjfl
 <<<<<<< HEAD
-#kdjsalkdjlka Please enter the commit message for your changes. Lines starting
+#kdjsalds jfkljdskfljs dfkjdslkjflksfjlkjkdjlka Please enter the commit message for your changes. Lines starting
 =======
 ajdlksajdlkPlease enter the commit message for your changes. Lines starting
 >>>>>>> thi
